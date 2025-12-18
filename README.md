@@ -1,1 +1,1 @@
-# CNsarcasm
+# sarcasm dataset
